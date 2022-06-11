@@ -1,0 +1,11 @@
+body {
+    background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+}
+
+h2 {
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+    background-color: #e3e85e;
+    border-radius: 5px;
+    border-color: 2px solid black !important;
+}
